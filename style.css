@@ -105,6 +105,14 @@ h3 {
   background-color: #252222;
   overflow: hidden;
 }
+.sticky
+{
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 100;
+}
 .nav .logo {
   position: absolute;
   top: 50%;
